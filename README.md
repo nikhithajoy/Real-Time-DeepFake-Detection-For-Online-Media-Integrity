@@ -52,6 +52,7 @@ Deepfake technology has made it increasingly difficult to distinguish between re
 
 ```shell
 $ git clone "https://github.com/nikhithajoy/Real-Time-DeepFake-Detection-For-Online-Media-Integrity.git"
+```
 
 **2.** Create virtual env
 
