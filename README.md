@@ -1,4 +1,4 @@
-# REAL-TIME-DEEPFAKE-DETECTION-FOR-ONLINE-MEDIA-INTEGRITY
+# Real-Time DeepFake Detection For Online Media Integrity
 
 
 ![Logo](./Resources/ui.png)
