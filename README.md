@@ -1,7 +1,7 @@
 # Real-Time DeepFake Detection For Online Media Integrity
 
+![image](https://github.com/user-attachments/assets/bd0b2bf9-16f2-4304-879c-5c96a1d8a194)
 
-![Logo](./Resources/ui.png)
 
 This project involves the development and implementation of a deep learning algorithm that leverages a CNN-RNN approach to detect deepfake videos. This solution is designed to work across various online platforms.
 
