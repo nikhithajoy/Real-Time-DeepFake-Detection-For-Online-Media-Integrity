@@ -1,0 +1,9 @@
+keras
+pillow
+numpy
+tensorflow
+opencv-python
+tkinter
+cvzone
+pyttsx3  
+torchvision
