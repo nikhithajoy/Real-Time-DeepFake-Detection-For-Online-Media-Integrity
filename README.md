@@ -126,7 +126,7 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## Contact
 
-For any questions or inquiries, please contact me at pradul2002@gmail.com.
+For any questions or inquiries, please contact me at nikhitha.joy.official@gmail.com
 
 
 
