@@ -51,8 +51,7 @@ Deepfake technology has made it increasingly difficult to distinguish between re
 **1.** Clone git repo
 
 ```shell
-$ git clone "https://github.com/PRADULOP/REAL-TIME-DEEPFAKE-DETECTION-FOR-ONLINE-MEDIA-INTEGRITY.git"
-```
+$ git clone "https://github.com/nikhithajoy/Real-Time-DeepFake-Detection-For-Online-Media-Integrity.git"
 
 **2.** Create virtual env
 
@@ -65,35 +64,11 @@ $  python -m venv env
 ```shell
 $  ./env/Scripts/activate
 ```
-**3.** Import Modules
+**3.** Install Dependencies 
+```
+pip install -r requirements.txt
+```
 
-```shell
-$ pip install keras
-```
-```shell
-$ pip install pillow
-```
-```shell
-$ pip install numpy
-```
-```shell
-$ pip install tensorflow
-```
-```shell
-$ pip install opencv-python     
-```
-```shell
-$ pip install tkinter     
-```
-```shell
-$ pip install cvzone  
-```
-```shell
-$ pip install pyttsx3  
-```
-```shell
-$ pip install torchvision
-```
 **4.** Execute prediction model
 ```shell
 $ python ./main.py
